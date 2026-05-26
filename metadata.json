@@ -1,0 +1,6 @@
+{
+  "name": "DriveBeat",
+  "description": "Smart Synthwave car console with Bluetooth pairing, local USB scanning, AI voice controls, navigation HUD, and dancing pixel cat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
